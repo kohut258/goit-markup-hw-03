@@ -228,7 +228,7 @@ flex-direction: column;
     color: var(--maim-title-color);
 }
 .benefits-text {
-    text-transform: lowercase;
+    margin-top: 8px;
     color: var(--maim-text-color);
 
 
@@ -343,17 +343,20 @@ background: var(--maim-background-fon-color);
 }
 .features-item{
     width: 360px;
+    padding-bottom: 32px;
     border: 1px solid #E7E9FC;
 }
 
 .features-title{
 margin-top: 32px;
 margin-bottom: 8px;
+text-indent: 16px;
 
 color: var(--maim-title-color);
 
 }
 .features-text{
+    text-indent: 16px;
     color: var(--maim-text-color);
     
 }
