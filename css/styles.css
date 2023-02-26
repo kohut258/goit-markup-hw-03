@@ -224,11 +224,11 @@ flex-direction: column;
     width: 264px;
 }
 .benefits-title {
-
+    margin-bottom: 8px;
     color: var(--maim-title-color);
 }
 .benefits-text {
-    margin-top: 8px;
+    
     color: var(--maim-text-color);
 
 
